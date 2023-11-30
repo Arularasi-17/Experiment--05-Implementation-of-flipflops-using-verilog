@@ -109,9 +109,17 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: ARULARASI.U
+RegisterNumber: 23013049 
 */
+![CODE JKFF (2)](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/b6c39805-7d3e-46f1-be75-400426f1a602)
+![WAVEFORM JKFF (3)](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/c8089391-3787-429c-b28a-8ba0121a1bef)
+![CODE SRFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/793cd15b-a485-4723-b63d-5e16a6d7e65b)
+![WAVEFORM SRFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/576338c6-84f8-41fc-9e10-b37ac89bb241)
+![CODE TFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/aa3090c3-e232-41f3-948c-3c6a8eeadb29)
+![WAVEFORM TFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/5e7d3e8e-0524-4b44-a043-5520cf9183fa)
+![CODEDFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/e25863fe-dddf-40eb-8097-fd6fea7c663a)
+![WAVEFORM DFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/a597a241-bb54-47f0-af64-65f227f37ee3)
 
 
 
@@ -122,6 +130,10 @@ RegisterNumber:
 
 
 
+![LOGIC GATE JKFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/2f1195f2-9697-46d7-a519-79d4a5374413)
+![LOGIC GATE SRFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/2b3abb7c-b480-407d-afdf-7ae5dd3660d5)
+![LOGIC GATES TFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/a3e3a00e-3665-407f-bb03-0a57bab25fac)
+![LOGIC GATE DFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/1e30252a-7f9a-4df8-a72c-13aa2d95b9d5)
 
 
 
@@ -129,6 +141,10 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+![TIMELINE DIAGRAM](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/2042d79b-8d6d-4a26-8895-116977fbfe60)
+![TIME LINE SRFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/40c8c4a9-8fd1-4181-b94e-20c801123b2f)
+![TIME LINE TFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/13d5c493-dfb8-4387-95d7-445f6e2b0958)
+![TIMELINE DFF](https://github.com/Arularasi-17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147410018/3f14d999-c2f9-4acd-a5c2-426aecbb83d5)
 
 
 
